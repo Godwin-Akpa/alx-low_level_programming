@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-/* this is to use the put function
+/* 
+ * this is to use the put function
  * in absence of printf 
  */
 int main(void)
