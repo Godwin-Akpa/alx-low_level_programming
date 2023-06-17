@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /* 
- *this is to use the put function
+ *main - this is to use the put function
  *in absence of printf 
+ *Return: success 0
  */
 int main(void)
 {
