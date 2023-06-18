@@ -1,1 +1,1 @@
-Variabel, if, else & while in C programming language
+variable, if, else & while functions in C programming language
