@@ -1,13 +1,14 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 /**
- * main - Entry point
+ * main - Writes combinations of 00-99
+ * @void: Empty parameter list for main.
  *
- * Description:to writes all unique combinations of 2
+ * Description: Writes all unique combinations of 2
  * digit numbers
  *
- * Retrun:0 Always success
- */
+ * Return: 0 for success
+*/
 int main(void)
 {
 	int i, j;
@@ -33,6 +34,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	
 	return (0);
 }
