@@ -3,8 +3,8 @@
 /**
  * main - Entry point
  *
- * Description:to writes all unique combinations of
- * 2 digit numbers
+ * Description:to writes all unique combinations of 2
+ * digit numbers
  *
  * Retrun:0 Always success
  */
@@ -33,5 +33,5 @@ int main(void)
 		}
 	}
 	putchar('\n');
-	return (0);
+	return(0);
 }
