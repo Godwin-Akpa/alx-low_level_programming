@@ -1,7 +1,7 @@
-include <stdio.h>
+#include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
+void positive_or_negative(int i);
 /**
  * main - Entry.
  *
@@ -11,7 +11,7 @@ include <stdio.h>
  *
  * Return: 0 Always for (Success)
 */
-int main(void)
+int mainpositive_or_negative(void)
 {
 	int n;
 
